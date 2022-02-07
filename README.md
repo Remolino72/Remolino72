@@ -1,7 +1,7 @@
 
 ![I IA proyect developer](https://github.com/Remolino72/Remolino72/blob/main/MAchine%20LEarbning%20Banner.jpg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remolino72&show_icons=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remolino72&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remolino72&langs_count=8&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Hi there 👋, Javier F. Hernandez
