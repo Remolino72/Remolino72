@@ -1,5 +1,5 @@
 
-![I IA proyect developer](https://github.com/Remolino72/Remolino72/blob/main/https://github.com/Remolino72/Remolino72/blob/abc85fbb1195056f42671026242b8e2f0ae4d099/Banner%203.png)
+![I IA proyect developer](https://github.com/Remolino72/Remolino72/blob/mainhttps://github.com/Remolino72/Remolino72/blob/main/Banner%203.png)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remolino72&show_icons=true&theme=react)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remolino72&langs_count=8&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
